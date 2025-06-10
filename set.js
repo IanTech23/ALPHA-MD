@@ -25,7 +25,7 @@ const config = {
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',    
     URL: process.env.URL || "https://files.catbox.moe/t7b1ik.jpg",    //replace with your image url                     
     ANTICALL_MSG: process.env.ANTICALL_MSG || 'call declined BY IAN BOT',             
-    GURL: process.env.GURL || "https://github.com/Keithkeizzah", // replace with your url
+    GURL: process.env.GURL || "https://github.com/IanTech23/ALPHA-MD/blob/main/set.js", // replace with your url
     EVENTS: process.env.EVENTS || "yes",    
     BOT: process.env.BOT_NAME || 'IAN TECH', //replace with your bot name
     MODE: process.env.PUBLIC_MODE || "yes",              
