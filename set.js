@@ -26,7 +26,7 @@ const config = {
     URL: process.env.URL || "https://files.catbox.moe/t7b1ik.jpg",    //replace with your image url                     
     ANTICALL_MSG: process.env.ANTICALL_MSG || 'call declined BY IAN BOT',             
     GURL: process.env.GURL || "https://github.com/IanTech23/ALPHA-MD/blob/main/set.js", // replace with your url
-    EVENTS: process.env.EVENTS || "no",    
+    EVENTS: process.env.EVENTS || "yes",    
     BOT: process.env.BOT_NAME || 'IAN TECH', //replace with your bot name
     MODE: process.env.PUBLIC_MODE || "yes",              
     TIMEZONE: process.env.TIMEZONE || "Africa/Nairobi", //replace with your timezone 
